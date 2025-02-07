@@ -1,0 +1,2 @@
+# AvinyaEdtechTest
+Technical Assessment test 
